@@ -28,13 +28,9 @@
     margin: 0.5em;
 }
 
-.link__igLogo {
+.link__logo {
     width: 3em;
-    color: #f5f5f5;
-}
-
-.link__fbLogo {
-    width: 3em;
+    height: 3em;
     color: #f5f5f5;
 }
 
