@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <chanel>
+        <title>
+        K04dam
+        </title>
+        <link>
+        https://k04dam.com
+        </link>
+        <description>
+        Personal website where you can find some things about me.
+        </description>
+        <item>
+            <title>
+            Personal Links
+            </title>
+            <link>
+            https://gg.k04dam.com
+            </link>
+            <guid>
+            https://gg.k04dam.com
+            </guid>
+            <pubDate>
+            Sun, 20 Oct 2024 00:00:01 CET 
+            </pubDate>
+            <description>
+            Links for my social media.
+            </description>
+        </item>
+    <chanel>
+</rss>
