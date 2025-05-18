@@ -77,6 +77,13 @@ body {
     margin: 0.5em;
 }
 
+.link__row:hover {
+    background-color: rgb(182, 182, 182);
+    border-radius: 10px;
+    cursor: pointer;
+    width: 100%;
+}
+
 .link__logo {
     width: 3em;
     height: 3em;
